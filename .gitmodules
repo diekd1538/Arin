@@ -1,4 +1,0 @@
-[submodule "rem_translate"]
-	path = rem_translate
-	url = https://github.com/DasWolke/rem_translate.git
-	branch = master
