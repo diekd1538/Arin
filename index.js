@@ -16,7 +16,7 @@ const discord_token = config.discord_token;
 var guilds = {};
 
 
-client.login(discord_token);
+client.login(NDA4NjU0MDA2NjQ3MjU5MTQ1.DVV7jg.6V3WF3zmx-M_pp1xICJT-5e-520);
 
 client.on('messafge', function(message) {
     const member = message.member;
